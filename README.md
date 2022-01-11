@@ -2,8 +2,8 @@
 
 [![benjaminc.xyz - portfolio](https://img.shields.io/badge/benjaminc.xyz-portfolio-2ea44f?style=for-the-badge)](https://benjaminc.xyz)
 
-- 🔭 I’m currently working on developing my skillset to become a full-time developer.
-- 🌱 I’m currently learning Redux
+- 🔭 I’m currently working on developing my skillset to become a full-time web developer.
+- 🌱 I’m currently learning React, Redux, and testing frameworks like Cypress and Playwright
 - 👯 I’m looking to collaborate on any fun project ideas :]
 - 💬 Ask me anything!
 - 📫 How to reach me: Send me an email at bycho1991@gmail.com
