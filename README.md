@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Benjamin, and I am a front-end developer based out of Dallas, TX.
 
 <!--
 **bycho91/bycho91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
