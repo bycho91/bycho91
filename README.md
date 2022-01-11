@@ -1,6 +1,10 @@
-### Hi there 👋 My name is Benjamin, and I am a front-end developer based out of Dallas, TX.
+### Hi there! I'm Benjamin, a front-end developer out of Dallas, TX 👋
+
+[![Website](https://img.shields.io/website?labelbenjaminc.xyz&style=for-the-badge&url=https%3A%2F%2Fbenjaminc.xyz)](https://benjaminc.xyz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
+
 <!--
 **bycho91/bycho91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
