@@ -1,7 +1,6 @@
 ### Hi there! I'm Benjamin, a front-end developer out of Dallas, TX 👋
 
-[![My Portfolio](https://img.shields.io/website?label=benjaminc.xyz&style=for-the-badge&url=https%3A%2F%2Fbenjaminc.xyz)](https://benjaminc.xyz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![benjaminc.xyz - portfolio](https://img.shields.io/badge/benjaminc.xyz-portfolio-2ea44f?style=for-the-badge)](https://benjaminc.xyz)
 
 React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
 
