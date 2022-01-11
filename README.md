@@ -2,7 +2,12 @@
 
 [![benjaminc.xyz - portfolio](https://img.shields.io/badge/benjaminc.xyz-portfolio-2ea44f?style=for-the-badge)](https://benjaminc.xyz)
 
-React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
+- 🔭 I’m currently working on developing my skillset to become a full-time developer.
+- 🌱 I’m currently learning Redux
+- 👯 I’m looking to collaborate on any fun project ideas :]
+- 💬 Ask me anything!
+- 📫 How to reach me: Send me an email at bycho1991@gmail.com
+- ⚡ Fun fact: I love to sing and play basketball in my spare time! I'm a huge Dallas Mavs and Cowboys fan
 
 <!--
 **bycho91/bycho91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
