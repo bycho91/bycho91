@@ -7,10 +7,10 @@
 - I'm learning more about the React framework as I build projects. I enjoy creating websites that not only look good, but also perform well.
 
 # 🌱 What I'd like to learn in the future:
-- Typescript.
+- Using typescript with React.
 - More in depth on testing tools such as Cypress and Playwright to write Test Driven code.
 - Better understanding of writing clean and optimized code.
-- VueJS
+- VueJS and Svelte [once I've somewhat "mastered" React]
 
 # 📫 You can reach me at: bycho1991@gmail.com or just shoot me a message on my linkedin!
 
