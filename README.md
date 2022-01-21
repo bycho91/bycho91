@@ -1,4 +1,4 @@
-### Hi there! I'm Benjamin, a front-end developer out of Dallas, TX 👋
+# Hi there! I'm Benjamin, a front-end developer out of Dallas, TX 👋
 
 [![benjaminc.xyz - portfolio](https://img.shields.io/badge/benjaminc.xyz-portfolio-2ea44f?style=for-the-badge)](https://benjaminc.xyz)
 [![bchomba - linkedin](https://img.shields.io/badge/bchomba-linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/bchomba/)
