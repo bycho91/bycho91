@@ -9,7 +9,7 @@ I enjoy doing this in my free time - for free. But I can definitely enjoy it mor
 ## 🔭 What I'm currently working on:
 I currently work as a QA Engineer, but my passion is in web development. I'm in the process of creating a Full-stack budgeting app called 'Budgety' with a wonderful cohort group from an organization called FCC Dallas. The tech stack we are using for this project is React with Typescript, React Hook Forms, Styled Components, NestJS with Typescript and Mongo as the database. I've been working mainly on the frontend side of the project, but I am starting to grow more comfortable with looking at backend code in order to better integrate the two sides together.
 
-I am also in the process of going through the DSA Section of the FCC curriculum to better myself in my weakest area.
+I am also in the process of going through the DSA Section of the FCC curriculum to better myself in what I believe is my weakest area of knowledge.
 
 ## 🌱 What I'd like to learn in the future:
 - More optimized pattnerns for complex state management
