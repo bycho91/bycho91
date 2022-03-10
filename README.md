@@ -4,16 +4,19 @@
 [![bchomba - linkedin](https://img.shields.io/badge/bchomba-linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/bchomba/)
 
 ## 😄 What's your deal?
-I enjoy doing this in my free time...for free. Imagine my potential if I was paid to do this for a living :)
+I enjoy doing this in my free time - for free. But I can definitely enjoy it more if it was my full-time job :)
 
-## 🔭 What I'm currently learning:
-I'm learning more about the React framework as I build more and more personal projects.
+## 🔭 What I'm currently working on:
+I'm currently working on a Full-stack budget app called 'Budgety' with a cohort group from an organization called FCC Dallas. Tech stack we are using for his project
+is React with Typescript, React Hook Form, Styled Components, NestJS with Typescript and Mongo as the database.
+
+I am also in the process of going through the DSA Section of the FCC curriculum to better myself in my weakest area.
 
 ## 🌱 What I'd like to learn in the future:
-- Using typescript with React.
+- More optimized pattnerns for complex state management
 - More in depth on testing tools such as Cypress and Playwright to write Test Driven code.
-- Better understanding of writing clean and optimized code.
 - VueJS and Svelte [once I've somewhat "mastered" React]
+
 
 ## 📫 You can reach me at: 
 Bycho1991@gmail.com or just shoot me a message on my linkedin!
