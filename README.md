@@ -4,7 +4,7 @@
 [![bchomba - linkedin](https://img.shields.io/badge/bchomba-linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/bchomba/)
 
 ## 😄 What's your deal?
-I currently work as a QA Engineer, but my passion is in web development. I enjoy doing this in my free time - for free. But I can definitely enjoy it more if it was my full-time job :)
+I currently work as a QA Engineer, but my passion is in web development. I enjoy doing this in my spare time - for free. But I can definitely enjoy it more if it was my full-time job :)
 
 ## 🔭 What I'm currently working on:
 Learning how to build a full-stack TODO App using PERN stack. While MongoDB seems cool, I'd love to learn the advantages of a relational db.
