@@ -10,16 +10,13 @@ I currently work as a JavaScript and Web Form Developer. I enjoy learning new te
 I am currently learning more about data structures and algorithms by solving coding challenges using mainly Javascript.
 
 ## 🌱 What I'd like to learn in the future:
-- The art of testing
 - Becoming efficient with Python
+- AI Workflow
 
 
 ## 📫 You can reach me at: 
 Bycho1991@gmail.com or just shoot me a message on my linkedin!
 
-
-## ⚡ Fun fact: 
-I love keyboard clickity clackity ASMR.
 
 <!--
 **bycho91/bycho91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
