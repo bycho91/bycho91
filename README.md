@@ -74,7 +74,6 @@ I'm genuinely passionate about optimization — always looking for smarter ways 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bycho91&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bycho91&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
